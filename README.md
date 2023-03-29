@@ -1,2 +1,3 @@
-# sealcoin
+# sealbucks
+
 pranked
