@@ -1,3 +1,0 @@
-# sealbucks
-
-pranked
